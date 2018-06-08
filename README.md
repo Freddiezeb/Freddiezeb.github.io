@@ -1,1 +1,2 @@
-# Freddiezeb.github.io
+# ProjectGranit
+Project for Javascript course
